@@ -1,0 +1,8 @@
+*.db
+*.log
+*.csv
+*.jpg
+*.png
+*.pyc
+*.txt
+.ipynb_checkpoints/*.*
